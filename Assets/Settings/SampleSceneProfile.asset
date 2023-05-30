@@ -117,10 +117,10 @@ MonoBehaviour:
   active: 1
   _HorizontalIntensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 0.059
   _VerticalIntensity:
     m_OverrideState: 1
-    m_Value: 0
-  timeScale:
+    m_Value: 0.025
+  _TimeScale:
     m_OverrideState: 1
     m_Value: 1
